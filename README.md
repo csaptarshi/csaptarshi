@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csaptarshi
 - 👀 I’m interested in Coding, Cricket, Anime
 - 🌱 I’m currently learning Cloud Computing
-- 📫 How to reach me LinkedIn( www.linkedin.com/in/csaptarshi214 ).
+- 📫 Reach me Via LinkedIn( www.linkedin.com/in/csaptarshi214 ).
 
 <!---
 csaptarshi/csaptarshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
